@@ -1,4 +1,4 @@
-# Loan Default Risk Dashboard
+# LENDING CLUB LOAN RISK & PORTFOLIO ANALYSIS
 
 [📊 Download Power BI Dashboard](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis/releases/tag/v1.0.0)
 
