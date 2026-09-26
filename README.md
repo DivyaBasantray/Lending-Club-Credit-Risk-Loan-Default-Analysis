@@ -1,5 +1,7 @@
 # Loan Default Risk Dashboard
 
+[📊 Download Power BI Dashboard](https://github.com/DivyaBasantray/Lending-Club-Credit-Risk-Loan-Default-Analysis/releases/tag/v1.0.0)
+
 ## 1. Project Objective
 
 The objective of this project is to analyze Lending Club loan data and understand the factors associated with loan defaults.
