@@ -39,11 +39,7 @@ Used for data cleaning and exploratory data analysis.
 
 Libraries used:
 - Pandas – data cleaning, transformation, and analysis
-- NumPy – numerical operations
 - Matplotlib – data visualization
-
-### SQL
-Used to explore and analyze the loan data and calculate important business metrics.
 
 ### Power BI
 Used to build the final interactive dashboard.
