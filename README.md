@@ -61,11 +61,11 @@ Used to document and showcase the project, analysis, and dashboard.
 
 ### Business Problem
 
-Lending institutions need to understand which borrower and loan characteristics are associated with higher credit risk.
+- Lending institutions need to understand which borrower and loan characteristics are associated with higher credit risk.
 
-A large loan portfolio can contain millions of records, making it difficult to identify important patterns from raw data alone.
+- A large loan portfolio can contain millions of records, making it difficult to identify important patterns from raw data alone.
 
-This project converts the Lending Club loan data into an interactive dashboard that makes these patterns easier to understand.
+- This project converts the Lending Club loan data into an interactive dashboard that makes these patterns easier to understand.
 
 ### Goal of the Dashboard
 
@@ -126,11 +126,11 @@ It includes:
 
 ## 5. Dataset
 
-The dataset used in this project is the **Lending Club Loan Data** dataset from Kaggle.
+- The dataset used in this project is the **Lending Club Loan Data** dataset from Kaggle - https://www.kaggle.com/datasets/wordsforthewise/lending-club/data
 
-The original dataset contains Lending Club loan records from **2007 to 2018**.
+- The original dataset contains Lending Club loan records from **2007 to 2018**.
 
-The selected dataset used for the dashboard contains approximately **2.26 million loan records** and 27 relevant columns.
+- The selected dataset used for the dashboard contains approximately **2.26 million loan records** and 27 relevant columns.
 
 The analysis includes information such as:
 
@@ -158,6 +158,6 @@ For default analysis, the focus was placed on **resolved loans**:
 - Fully Paid → considered non-default
 - Charged Off → considered default
 
-Current and other ongoing loan statuses were not included when calculating the final charged-off rate because their final outcome is not yet known.
+- Current and other ongoing loan statuses were not included when calculating the final charged-off rate because their final outcome is not yet known.
 
-The final dataset was cleaned and prepared using Python before being used in Power BI.# Lending-Club-Credit-Risk-Loan-Default-Analysis
+- The final dataset was cleaned and prepared using Python before being used in Power BI.
